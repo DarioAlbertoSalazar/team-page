@@ -72,6 +72,10 @@ header {
   margin-top: 60px;
 }
 
+.image-container:nth-child(5) {
+    margin-top: 60px;
+  }
+
 img {
   width: 238px;
   height: 426.496px;
